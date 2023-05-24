@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "Rooms",
+      "icon": "rooms"
+    },
+    {
+      "id": 2,
+      "name": "Dining",
+      "icon": "dining"
+    },
+    {
+      "id": 3,
+      "name": "Grocery",
+      "icon": "groceries"
+    },
+    {
+      "id": 4,
+      "name": "Parks",
+      "icon": "parks"
+    },
+    {
+      "id": 5,
+      "name": "Places",
+      "icon": "places"
+    },
+    {
+        "id": 6,
+        "name": "Transportation",
+        "icon": "transportation"
+    }
+    
+  ]
+  

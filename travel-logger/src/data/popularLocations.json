@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "KLCC",
+      "located": "Kuala Lumpur",
+      "photo": "KLCC"
+    },
+    {
+      "id": 2,
+      "name": "Penang Hill",
+      "located": "Ayer Itam, Penang",
+      "photo": "PenangHill"
+    },
+    {
+      "id": 3,
+      "name": "Langkawi Island",
+      "located": "Langkawi, Kedah",
+      "photo": "LangkawiIsland"
+    },
+    {
+      "id": 4,
+      "name": "Batu Caves",
+      "located": "Gombak, Selangor",
+      "photo": "BatuCaves"
+    },
+    {
+      "id": 5,
+      "name": "Cameron Highlands",
+      "located": "Tanah Rata, Pahang",
+      "photo": "CameronHighlands"
+    },
+    {
+      "id": 6,
+      "name": "Melaka City",
+      "located": "Melaka",
+      "photo": "MelakaCity"
+    },
+    {
+      "id": 7,
+      "name": "Taman Negara National Park",
+      "located": "Jerantut, Pahang",
+      "photo": "TamanNegara"
+    },
+    {
+      "id": 8,
+      "name": "Kuching",
+      "located": "Kuching, Sarawak",
+      "photo": "Kuching"
+    },
+    {
+      "id": 9,
+      "name": "Mount Kinabalu",
+      "located": "Ranau, Sabah",
+      "photo": "MountKinabalu"
+    },
+    {
+      "id": 10,
+      "name": "Petronas Twin Towers",
+      "located": "Kuala Lumpur",
+      "photo": "PetronasTwinTowers"
+    }
+  ]
+  
