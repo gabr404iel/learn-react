@@ -16,8 +16,9 @@
     },
     {
       "id": 4,
-      "name": "Parks",
-      "icon": "parks"
+      "name": "Transport",
+        "icon": "transportation"
+      
     },
     {
       "id": 5,
@@ -26,8 +27,8 @@
     },
     {
         "id": 6,
-        "name": "Transportation",
-        "icon": "transportation"
+        "name": "Parks",
+      "icon": "parks"
     }
     
   ]

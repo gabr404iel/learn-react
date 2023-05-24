@@ -1,9 +1,9 @@
 [
     {
       "id": 1,
-      "name": "KLCC",
+      "name": "Petronas Twin Towers",
       "located": "Kuala Lumpur",
-      "photo": "KLCC"
+      "photo": "PetronasTwinTowers"
     },
     {
       "id": 2,
@@ -52,12 +52,6 @@
       "name": "Mount Kinabalu",
       "located": "Ranau, Sabah",
       "photo": "MountKinabalu"
-    },
-    {
-      "id": 10,
-      "name": "Petronas Twin Towers",
-      "located": "Kuala Lumpur",
-      "photo": "PetronasTwinTowers"
     }
   ]
   

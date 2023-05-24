@@ -12,6 +12,7 @@ export default function Content(){
             <Categories/>
             <PopularLocations/>
             <Map/>
+            <div className="bottom"></div>
         </>
     )
 }

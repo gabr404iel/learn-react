@@ -127,7 +127,7 @@ input[type="text"]:focus {
 .categories--list {
   padding: 1.25em 0em 1.25em 0.125em;
   display: flex;
-  gap: 1.125em;
+  gap: 1.25em;
   flex-wrap: nowrap;
   overflow-x: auto;
   margin-right: -2.25em; /* negative margin equal to the padding on the body */
@@ -141,12 +141,17 @@ input[type="text"]:focus {
   align-items: center;
 }
 
+.categories--category-card:last-of-type{
+  padding-right: 2em;
+}
+
 .categories--category-card > img{
   border-radius: 50%;
   padding: 0.75em;
   background: #FFFFFF;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.25);
 }
+
 
 /* popular-locations styles */
 
@@ -159,7 +164,68 @@ input[type="text"]:focus {
   justify-content: space-between;
 }
 
+.popular-locations--list{
+  padding-top: 0.6875em;
+  padding-left: 0.5em;
+  display: flex;
+  gap: 0.6875em;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  margin-right: -2.25em; /* negative margin equal to the padding on the body */
+}
+
+.popular-location--list-item {
+  margin: 0.5em 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.5em;
+  background: #EFEFEF;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+}
+
+.popular-location--list-item:last-of-type {
+  margin-right: 2em;
+}
+
+.popular-location--image-container {
+  width: 8.25em;
+  height: 10em; /* Adjust the height as needed */
+  overflow: hidden;
+  border-radius: 15px;
+}
+
+.popular-location--image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.popular-location--name{
+  margin-left: 0.375em;
+  align-self: baseline;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.popular-location--location{
+  align-self: baseline;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 14px;
+  color: #000000;
+}
+
 /* nav-styles */
+
+.bottom {
+  height: 6em; /* Adjust the height based on your navbar height */
+}
 
 .navbar{
   position: fixed;
@@ -188,3 +254,4 @@ input[type="text"]:focus {
   background-color: white;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.25);
 }
+
