@@ -221,6 +221,27 @@ input[type="text"]:focus {
   color: #000000;
 }
 
+/* map-styles */
+
+.map{
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.map-img{
+  display: flex;
+  filter: drop-shadow(1px 1px 10px rgba(0, 0, 0, 0.25));
+  border-radius: 15px;
+  max-height: 400px;
+}
+
+.map-img >img{
+  max-height:400px;
+  align-self: center;
+  width: auto;
+}
+
 /* nav-styles */
 
 .bottom {
